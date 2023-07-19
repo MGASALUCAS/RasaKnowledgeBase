@@ -1,0 +1,37 @@
+29/06/2023
+Morning Data:
+Temperatures; 31.5
+Humidity: 59
+Gases: Carbon Dioxide - 21%
+Gases: Smoke - 21%
+Sound Intensity : 12
+
+
+
+
+Evening Data:
+Morning Data:
+Temperatures; 31.5
+Humidity: 50
+Gases: Carbon Dioxide - 21%
+Gases: Smoke - 21%
+Sound Intensity : 16
+
+28/06/2023
+Morning Data:
+Temperatures; 31.5
+Humidity: 76
+Gases: Carbon Dioxide - 25%
+Gases: Smoke - 22%
+Sound Intensity : 16
+
+
+
+
+Evening Data:
+Morning Data:
+Temperatures; 29.5
+Humidity: 56
+Gases: Carbon Dioxide - 20%
+Gases: Smoke - 20%
+Sound Intensity : 17

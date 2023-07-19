@@ -1,0 +1,20 @@
+
+
+credential za wanafnzi 
+
+
+Registration Number	Firstname 		Lastname {password}
+	
+NIT/BIT/2023/1	        HASSAN	        	 ALLI	
+ 
+NIT/BIT/2023/2	        ASHA	       		 MUSA
+	 
+NIT/BIT/2023/3  	SIMON	      		  AMOS
+
+
+
+ADMIN LOGIN
+
+USERNAME         {password}
+
+Admin             password

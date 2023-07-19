@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Display</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="static/script.js"></script>
+    <style>
+        /* Additional CSS styles for enhanced visual appearance */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #3c9de2;
+            margin: 0;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: #4090dc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #5e9fee;
+        }
+
+        th {
+            background-color: #3c82bb;
+            font-weight: bold;
+        }
+
+        tr:hover {
+            background-color: #4f8ddf;
+        }
+    </style>
+</head>
+<body>
+    <h1>NIT Chatbot Subsystem</h1>
+    <h2>This system contains information and quaries made by the students from the Chatbot for registered users.</h2>
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Student Queries</th>
+            <th>Date and Time - Message Sent</th>
+            <!-- <th>Third Data</th> -->
+        </tr>
+        <!-- Use a loop to iterate through the data -->
+            <!-- To auto increment the ID column, we need to use a counter variable -->
+
+        
+        <!-- {% set counter = 1 %} -->
+
+        {% for row in data %}
+            <tr>
+                <td>{{ loop.index }}</td>
+                <td>{{ row[0] }}</td>
+                <td>{{ row[1] }}</td>
+                <!-- <td>{{ row[2] }}</td> -->
+            </tr>
+            <!-- {% set counter = counter + 1 %} -->
+        {% endfor %}
+    </table>
+</body>
+</html>

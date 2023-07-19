@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Configuration</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Cute Chatbot Configuration</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <label for="promptFile">Upload prompt.txt:</label>
+            <input type="file" id="promptFile" name="promptFile" accept=".txt"><br>
+            <label for="documentFiles">Upload External Document Files:</label>
+            <input type="file" id="documentFiles" name="documentFiles" multiple accept=".txt, .doc, .docx"><br>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="message"></div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
