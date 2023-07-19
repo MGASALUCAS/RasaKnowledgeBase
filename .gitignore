@@ -1,0 +1,7 @@
+*.json
+.rasa
+env/
+__pycache__/
+.git
+*.tar
+```
