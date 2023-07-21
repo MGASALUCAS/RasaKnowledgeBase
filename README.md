@@ -25,7 +25,7 @@ cd rasa-knowledge-base
 
 Install the required dependencies:
 Copy code
-pip install -r requirements.txt
+```pip install -r requirements.txt``` 
 Improvements to the Rasa Chatbot
 Our solution enhances the Rasa chatbot by optimizing the credentials, rules, stories, and NLU data. To replicate these improvements, follow these steps:
 
@@ -39,22 +39,21 @@ rasa train
 Running the Rasa Chatbot API
 To run the Rasa chatbot as an API, execute the following commands:
 
-Run the Rasa API server:
-css
+Run the Rasa API server: <br/>
 Copy code
-rasa run -m models --enable-api --cors "*" --debug
-Start the Rasa action server:
+``` rasa run -m models --enable-api --cors "*" --debug ```
+Start the Rasa action server: <br/>
 Copy code
-rasa run actions --cors "*" --debug
-The Flask App - Simplified Knowledge Base
+```rasa run actions --cors "*" --debug ```
+The Flask App - Simplified Knowledge Base <br/>
 
 Our elegant Flask app simplifies the process of uploading prompt documents and external documents, which become a rich knowledge base for the chatbot.
 
-Running the Flask App
+Running the Flask App <br/>
 To run the Flask app, execute the following command:
 
 Copy code
-python app.py
+```python app.py``` <br/>
 Then, access the app in your web browser at: http://127.0.0.1:5000
 
 Future Enhancements
