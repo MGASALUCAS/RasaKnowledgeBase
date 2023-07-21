@@ -61,9 +61,11 @@ Future Enhancements
 We are committed to continually improving Rasa Knowledge Base. Our future plans include integrating additional natural language processing capabilities, improving summarization algorithms, and expanding the chatbot's understanding of various document formats.
 
 Images:
+
+Image 1:
 ![Screenshot 2023-07-21 104937](https://github.com/MGASALUCAS/RasaKnowledgeBase/assets/88959075/de7a0a71-9e46-421e-a881-badd1b61f2ce)
 
-
+Image 2:
 ![Screenshot 2023-07-21 105118](https://github.com/MGASALUCAS/RasaKnowledgeBase/assets/88959075/9cbda876-54cf-4222-a2ca-aab9c82fceae)
 
 Contributing
