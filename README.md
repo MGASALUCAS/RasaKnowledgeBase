@@ -1,10 +1,10 @@
 ﻿# Rasa Knowledge Base - Your Gateway to Enhanced Chatbot Experiences.
  
-Welcome to Rasa Knowledge Base, a revolutionary project that combines the power of the Rasa chatbot with cutting-edge technologies to provide seamless conversational AI experiences. This comprehensive README will guide you through setting up and utilizing our solution, empowering you to build highly efficient chatbots that draw knowledge from documents effortlessly.
+Welcome to Rasa Knowledge Base, a  project that combines the power of the Rasa chatbot with cutting-edge technologies like Large Language models to provide seamless conversational AI experiences. This comprehensive README will guide you through setting up and utilizing our solution, empowering you to build highly efficient chatbots that draw knowledge from documents effortlessly.
 
 
 ## Introduction
-At Rasa Knowledge Base, we understand the challenges developers face when building chatbots. Often, these chatbots struggle to provide precise answers, especially when dealing with large volumes of information. Our mission is to overcome this limitation, offering a codeless proof of concept that allows developers and non-technical individuals to harness the full potential of Rasa and OpenAI API.
+At Rasa Knowledge Base, we understand the challenges developers face when building chatbots. Often, these chatbots struggle to provide precise answers, especially when dealing with large volumes of information. Our mission is to overcome this limitation, offering a codeless proof of concept that allows developers and non-technical individuals to harness the full potential of Rasa and OpenAI API or any other LLM API.
 
 ## Project Structure
 The project comprises two essential parts:
