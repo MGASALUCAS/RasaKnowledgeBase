@@ -44,7 +44,7 @@ Copy code
 ``` rasa run -m models --enable-api --cors "*" --debug ``` <br/>
 Start the Rasa action server: <br/>
 Copy code
-```rasa run actions --cors "*" --debug ```
+```rasa run actions --cors "*" --debug ```  <br/>
 The Flask App - Simplified Knowledge Base <br/>
 
 Our elegant Flask app simplifies the process of uploading prompt documents and external documents, which become a rich knowledge base for the chatbot.
