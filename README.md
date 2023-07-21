@@ -67,7 +67,7 @@ Image 1:
 Image 2:
 ![Screenshot 2023-07-21 105118](https://github.com/MGASALUCAS/RasaKnowledgeBase/assets/88959075/9cbda876-54cf-4222-a2ca-aab9c82fceae)
 
-Contributing
+## Contributing
 We welcome contributions from the open-source community. If you have ideas for enhancements or bug fixes, feel free to submit a pull request.
 
 License
