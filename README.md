@@ -41,7 +41,7 @@ To run the Rasa chatbot as an API, execute the following commands:
 
 Run the Rasa API server: <br/>
 Copy code
-``` rasa run -m models --enable-api --cors "*" --debug ```
+``` rasa run -m models --enable-api --cors "*" --debug ``` <br/>
 Start the Rasa action server: <br/>
 Copy code
 ```rasa run actions --cors "*" --debug ```
